@@ -1,0 +1,1 @@
+This package contains tools for analyzing pressure-volume loops taken from the left ventricle of large animals. We make use of the data and techniques made available in [Stonko 2022](https://pubmed.ncbi.nlm.nih.gov/35257117/)
